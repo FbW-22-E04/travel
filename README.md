@@ -7,4 +7,7 @@
 **Tell us about your favorite trips you did.**
 
 
-**Talk to each other and give tips for trips :)**
+**Give us some tips for trips :)**
+
+
+**Where have you never been, but one day you would like to travel there?**
