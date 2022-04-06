@@ -1,6 +1,6 @@
 first.md
 
-# Favorite travel places
+# Favorite travel destinations
 
 *When I was a child, my family often took me to Irland. I love this island, the rough nature and also the mentality to celebrate together in pubs with traditional Irish music and beer ;)*
 ![Irland](https://cdn.reisenaktuell.com/images/1231568_78d42e6d8d6c7a6688b6d35d45a4a4aa-957x550-nocrop.jpg "coast")
